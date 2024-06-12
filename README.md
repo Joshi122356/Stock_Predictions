@@ -30,8 +30,12 @@ Clone this repository:
 git clone https://github.com/username/stock-price-prediction-web-app.git
 Navigate to the project directory:
 cd stock-price-prediction-web-app
+
 Install dependencies:
+
 pip install -r requirements.txt
 Usage
+
 Run the Streamlit web application:
+
 streamlit run app.py
